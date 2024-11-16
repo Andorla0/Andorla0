@@ -16,8 +16,5 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 
-<img src="./icons/spring_creators.svg" size="40" alt="andorla0view"/>
-
-
 <img src="https://komarev.com/ghpvc/?username=andorla0&style=flat-square&color=blue" alt="andorla0view"/>
 
